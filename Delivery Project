@@ -1,0 +1,28 @@
+# Vaccine Delivery
+
+September, 2026
+Organizational Planning   
+For this project, I utilized a pen, paper and produced a digital simulation via Claude. 
+
+---
+
+## 1. Urgent Planning for Vaccines
+Your team of 3–4 operators must plan and execute an emergency vaccine distribution operation from the Eau Claire depot to all 12 Chippewa Valley clinics during a severe blizzard. You must develop a delivery schedule that meets every clinic’s pallet requirements and delivery windows while obeying vehicle capacities, travel restrictions, refrigeration limits, DOT driving regulations, and the single loading dock constraint. The team with the lowest total operational cost among all valid delivery schedules wins the contract.
+
+## 2. Architecture & Design
+![Here is an outline over the route I ended up deciding on.](https://claude.ai/artifact/FggJ2usY31vo3vYB5yiaW3)
+
+## 3. Methodology & Execution
+To begin with, I started by drawing a sort of "hub and spoke" drawing to enable me to visualize the routes and how they could be interconnected. 
+I knew that utilizing the more expensive helicopter was out of the question if the goal was to keep costs down. After going through a few rounds of trial and error, I eventually determined an ideal route to take. With the main "X factor" being letting the trucks sit idle, which allowed for battery charging and loading at the depot to occur in one fell swoop. 
+Which I then uploaded my findings to Claude to see if there were any shortcomings that I could have missed. Then it was a matter of representing it in a more clean, concise manner.
+
+
+## 4. Challenges & Troubleshooting
+Realistically, the biggest challenge came from simply ironing out a way that would deliver the vaccines unspoiled and within their proper windows. 
+There were several rounds of an "Aww shoot! Gotta start over again!" draft that just did not work at all, despite me initally believing it would.
+The final analysis with Claude was more or less making sure that our two parameters and guidelines were roughly homoousian.
+
+## 5. Conclusion & Lessons Learned
+All in all, this was a general success as I met all of the mission parameters and delivered the vaccines in an affordable, reliable manner. 
+I believe that visualizing the delivery model aided greatly in my comprehension of the assignment and would have been lost in the sauce otherwise.
