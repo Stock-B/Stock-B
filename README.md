@@ -1,16 +1,27 @@
-## Hi there 👋
+# Brady Stock's Cybersecurity Portfolio
 
-<!--
-**Stock-B/Stock-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my documentation hub. I am a Cybersecurity Specialist student at Chippewa Valley Technical College (CVTC), building a rounded base of expertise in physical security, IT infrastructure, and network defense. Building off of my prior experience working on ground-based satellite terminals.
 
-Here are some ideas to get you started:
+This site serves as an ever expanding chronicle of my technical labs, architectural designs, and overall thought process as I prepare for roles in IT Support and Security Operations; with a focus on national defense contractors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Feel Free to Reach Out
+* **LinkedIn:** (https://www.linkedin.com/in/justcallmebrady/)
+* **GitHub:** (https://github.com/Stock-B/)
+
+---
+
+## 🛠️ Projects & Labs
+
+*(Below is where I document my hands-on coursework and independent labs.)*
+
+### Semester 1:
+"Will be updated shortly."
+
+### Semester 2: 
+"Projects coming soon..."
+
+### Semester 3: 
+"Projects coming soon..."
+
+### Semester 4: 
+"Projects coming soon..."
