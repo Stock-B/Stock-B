@@ -7,6 +7,7 @@ This site serves as an ever expanding chronicle of my technical labs, architectu
 ## 🔗 Feel Free to Reach Out
 * **LinkedIn:** (https://www.linkedin.com/in/justcallmebrady/)
 * **GitHub:** (https://github.com/Stock-B/)
+* **Notion:** (https://frosted-begonia-3ab.notion.site/brady-stock-cybersecurity-portfolio)
 
 ---
 
